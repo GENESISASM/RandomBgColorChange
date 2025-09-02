@@ -44,4 +44,4 @@ Setiap kali tombol ditekan, warna background berubah ke salah satu dari array wa
 
 ---
 
-👨‍💻 Dibuat dengan ❤️ oleh [Arif](https://github.com/).  
+👨‍💻 Dibuat dengan ❤️ oleh [Arif](hhttps://github.com/GENESISASM).  
